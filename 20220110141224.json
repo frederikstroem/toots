@@ -1,1 +1,6 @@
-{"content": "\u003cp\u003eSometimes when running spooky Linux commands, I will prepend a `#` when writing out the command. This will ensure that if accidentally hit enter, the command will just be interpreted as a comment. So something like an `rm -r` or `zfs destory` will not make me cry. \ud83d\ude02\u003c/p\u003e", "created_at": "2022-01-10T14:12:24.591000+00:00", "url": "https://fosstodon.org/@frederikstroem/107598574032169125", "favourites_count": 2}
+{
+    "content": "<p>Sometimes when running spooky Linux commands, I will prepend a `#` when writing out the command. This will ensure that if accidentally hit enter, the command will just be interpreted as a comment. So something like an `rm -r` or `zfs destory` will not make me cry. 😂</p>",
+    "created_at": "2022-01-10T14:12:24.591000+00:00",
+    "url": "https://fosstodon.org/@frederikstroem/107598574032169125",
+    "favourites_count": 2
+}

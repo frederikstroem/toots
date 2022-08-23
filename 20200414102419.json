@@ -1,1 +1,6 @@
-{"content": "\u003cp\u003e\u003cspan class=\"h-card\"\u003e\u003ca href=\"https://fosstodon.org/@thewk\" class=\"u-url mention\"\u003e@\u003cspan\u003ethewk\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e Yeah, I will probably also be waiting a bit for the upgrade myself. But only a singe personal server, with most of my stuff dockerized. So it is not a lot of stuff that can go wrong, and it will be quite easy to restore from backups. \ud83d\ude05\u003cbr /\u003eBeen using Kubuntu :kubuntu: for some time on my laptop and desktop, but I think I will soon try out Manjaro. Wonder if I can handle the rolling updates. \ud83d\ude04 :manjaro: :kdenew:\u003c/p\u003e", "created_at": "2020-04-14T10:24:19.676000+00:00", "url": "https://fosstodon.org/@frederikstroem/103996447751403583", "favourites_count": 0}
+{
+    "content": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@thewk\" class=\"u-url mention\">@<span>thewk</span></a></span> Yeah, I will probably also be waiting a bit for the upgrade myself. But only a singe personal server, with most of my stuff dockerized. So it is not a lot of stuff that can go wrong, and it will be quite easy to restore from backups. 😅<br />Been using Kubuntu :kubuntu: for some time on my laptop and desktop, but I think I will soon try out Manjaro. Wonder if I can handle the rolling updates. 😄 :manjaro: :kdenew:</p>",
+    "created_at": "2020-04-14T10:24:19.676000+00:00",
+    "url": "https://fosstodon.org/@frederikstroem/103996447751403583",
+    "favourites_count": 0
+}
