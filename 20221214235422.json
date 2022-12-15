@@ -1,0 +1,6 @@
+{
+    "content": "<p>Just finished soldering a MH-Z19B (CO₂ sensor) and a WeMos D1 mini on a board, with space left for some extra sensors. 😀 I have it all connected to my Home Assistant instance by having flashed ESPHome on the WeMos. :homeassistant: Really great stuff! Also makes it easy to add the events to InfluxDB, which is nice, because data. :linus:</p>",
+    "created_at": "2022-12-14T23:54:22.109000+00:00",
+    "url": "https://fosstodon.org/@frederikstroem/109514723302136774",
+    "favourites_count": 1
+}
