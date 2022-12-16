@@ -1,0 +1,6 @@
+{
+    "content": "<p>I&#39;m using a helper text field in Home Assistant, the display shows this text field as an ESPHome text sensor, thus auto-updating the value.</p><p>Because I do it this way, I can program the value in AppDaemon.<br />I guess one could skip this step however, by just doing some logic inside ESPHome... 🙃</p>",
+    "created_at": "2022-12-15T21:29:20.011000+00:00",
+    "url": "https://fosstodon.org/@frederikstroem/109519815311749454",
+    "favourites_count": 0
+}
